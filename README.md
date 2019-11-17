@@ -20,7 +20,7 @@ After you've done this you can add this plugin to qBittorrent by going:
  **or**
 <kbd>Web Link</kbd> then insert the link you copied.
 
-Or by manually copying the `yggtorrent.py` to the following location:
+Or by manually copying the `torrent9.py` to the following location:
   * Linux: `~/.local/share/data/qBittorrent/nova/engines/torrent9.py`
   * Mac: ``~/Library/Application Support/qBittorrent/nova/engines/torrent9.py`
   * Windows: `%localappdata%\qBittorrent\nova3\engines\torrent9.py`
